@@ -7,11 +7,17 @@ FlyBuy is a responsive and interactive e-commerce website built using HTML, CSS,
 📁 Project Structure
 flybuy/
 ├── index.html              # Homepage with a responsive carousel
+
 ├── flybuyexplore.html      # Explore deals and offers
+
 ├── flybuyservices.html     # Information about available services
+
 ├── flybuyproducts.html     # Showcase of featured products with modals
+
 ├── flybuyblogs.html        # Trending blogs section
+
 ├── flybuycontact.html      # Call-to-action contact section
+
 ├── style.css               # Centralized stylesheet
 
 🛠️ Built With
